@@ -3,6 +3,7 @@ created: 06.02.2026 10:56
 related to: thoughts & Posts/DigitalCitizenTool
 tags:
 aliases:
+published: true
 ---
 
 Human society has always evolved through a single, relentless mechanism: the creation, implementation, and sharing of knowledge. From the printing press to the dawn of the internet, our collective progress is measured by how effectively we pass ideas to one another and build upon them.
